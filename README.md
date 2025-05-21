@@ -4,6 +4,11 @@
 
 The **Elevator Q&A App** is a Streamlit-based interactive web app designed to answer questions about elevators while highlighting the integration of OpenAI GPT models with Watsonx.governance. The application leverages various IBM and third-party services, including **Azure OpenAI** (GPT-3.5-Turbo), **IBM Watsonx.ai**, and **IBM Watsonx.governance**, along with the **Milvus vector database** to provide accurate responses based on embedded queries. The app allows users to input elevator-related questions and receive context-based answers, while also logging all interactions for monitoring purposes using IBM Watson OpenScale.
 
+
+https://github.com/user-attachments/assets/a16fbcf2-67c5-4e89-8aca-214d8b2c53b5
+
+Full Video - https://www.youtube.com/watch?v=qVv6nzucZXI 
+
 ## How It Works
 
 1. **User Inputs Question** - anything related to elevators.
