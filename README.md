@@ -1,4 +1,4 @@
-# Productionized, Trustworthy AI Systems - Full-Stack, Containerized Application Example
+## Trustworthy AI Systems - Full-Stack, Containerized Application Example
 
 ## Overview
 
